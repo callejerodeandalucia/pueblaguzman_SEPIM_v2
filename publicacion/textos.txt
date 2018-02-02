@@ -1,24 +1,44 @@
-TÃ­tulo (30)
-===========
+Título:
 
-DescripciÃ³n breve (80)
-======================
+GUÍA OFICIAL PUEBLA DE GUZMÁN
 
-DescripciÃ³n completa (4000)
-===========================
+Descripción breve:
 
-Etiquetas	
-===========
+Guía con información de interés de Puebla de Guzmán.
 
-Notas de versiÃ³n
-=================
-VersiÃ³n inicial
+Descripción completa:
 
-****aÃ±adir algo aquÃ­ si se publica en forma de actualizaciÃ³n***
-
-Sitio web
-=========
-
-Correo electrÃ³nico
-==================
-
+Con la Aplicación “Guía Oficial de Puebla de Guzmán”, la llevarás en Tú Bolsillo!
+Es una app desarrollada por el Ayuntamiento de Puebla de Guzmán, ampliando los canales
+de información y comunicación entre el ciudadano y la Administración.
+La idea inicial de esta aplicación es ofrecer una guía en la que se puede encontrar la máxima
+información de nuestra localidad usando los servicios de geolocalización que tenemos en
+nuestros dispositivos móviles, descubriendo nuestro pueblo a toda persona que se acerque a
+la localidad.
+Esta guía es muy útil para moverse por sus calles y, de forma rápida y ágil, consultar las
+información sobre servicios municipales, restaurantes, colegios, rutas, supermercados,
+localizar cajeros automáticos, así como conocer sus fiestas y costumbres, ocio, cultura,
+artesanía, monumentos y demás lugares de interés.
+Esta aplicación no solo indica la ubicación, sino que incluso, usando la tecnología GPS, guiará
+hasta el lugar solicitado e incluso ofrece la posibilidad de realizar llamadas o enviar correos
+electrónicos para contactar, así como visitar sus sitios web o redes sociales. Para poder
+identificar mejor la ubicación la aplicación ofrece una imagen de la fachada donde está
+ubicado el lugar de la búsqueda a la vez que ofrece una breve descripción informativa (ej:
+horarios y otros datos de interés). Además la aplicación dispone de un servicio "Cerca de mí"
+que indicará al ciudadano todos los elementos de interés cercanos a su posición.
+Al Oeste de la provincia de Huelva, a unos 62 kilómetros de la capital, en la comarca del
+Andévalo, un milenario territorio montañoso entre la Costa y la Sierra onubenses, y en la
+frontera con Portugal (La Raya, A Raia), se ubica Puebla de Guzmán (Andalucía, España). Sus
+coordenadas geográficas son 37º 36' N, 7º 15' O. Se encuentra situada a una altitud de 214
+metros sobre el nivel del mar.
+Una amplia red de carreteras, provinciales y regionales, permite el acceso a Puebla de
+Guzmán desde los municipios colindantes: El Granado, Villanueva de los Castillejos, Alosno,
+Tharsis, Cabezas Rubias y Paymogo. Su céntrica ubicación en el Andévalo Occidental ha
+convertido la localidad en el referente administrativo, sanitario y educacional de la zona.
+El municipio está compuesto por dos núcleos urbanos: Puebla de Guzmán y Las Herrerías,
+una barriada que fue minera, situada a unos escasos cuatro kilómetros del núcleo principal.
+Hay un servicio de transporte de viajeros de la empresa Damas que comunica las dos
+poblaciones dos veces al día, de lunes a viernes, y una el sábado, en el trayecto que une
+ambos núcleos con Huelva capital.
+¡ Y te vas a perder todo esto… !
+Visita Puebla de Guzmán.
